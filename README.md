@@ -1,6 +1,14 @@
 # clone_liquid_swipe_planet
 
-A new Flutter project.
+The codes of clone coding about Flutter Liquid Swipe Animation at 'CodeXpression' Youtube channel
+
+![image](https://user-images.githubusercontent.com/36909992/125792350-d3868d6a-79e6-43c8-9e08-a0692475c982.png)
+
+Youtube : https://www.youtube.com/watch?v=UOuBNbgt_RU&t=30s
+
+GitHub : https://github.com/codexpression-nj/liquid_swipe_tutorial
+
+pub.dev : https://pub.dev/packages/liquid_swipe
 
 ## Getting Started
 
